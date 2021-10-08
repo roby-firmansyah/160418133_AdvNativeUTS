@@ -1,0 +1,2 @@
+rootProject.name = "160418133_AdvNativeUTS"
+include ':app'
